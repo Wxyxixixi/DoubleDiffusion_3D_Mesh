@@ -83,15 +83,6 @@ The speed is tested on a median bunny mesh with 2992 vertices.
 |-----|------------|-------------------|-------------------|
 | 2 * 3090 | <center>4</center> | <center>~2 mins</center> | <center>22.054 it/s</center>|
 
-The speed is tested on a simple bunny mesh with 500 vertices.
-| GPU | Batch Size | Time per Epoch | Iteration per Time|
-|-----|------------|-------------------|-------------------|
-| 2 * 3090 | <center>4</center> | <center>~2 mins</center> | <center>22.054 it/s</center>|
-
-The speed is tested on a median bunny mesh with 35947 vertices.
-| GPU | Batch Size | Time per Epoch | Iteration per Time|
-|-----|------------|-------------------|-------------------|
-| 2 * 3090 | <center>4</center> | <center>~2 mins</center> | <center>22.054 it/s</center>|
 
 
 
